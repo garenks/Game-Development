@@ -1,4 +1,4 @@
-# Circuit Rush 🤖⚡
+# Circuit Rush 
 
 > Jogo de plataforma 2D desenvolvido na Unity como projeto final da disciplina de Game Development — UniFECAF.
 
@@ -48,7 +48,7 @@ Atravesse 3 fases com dificuldade crescente, colete moedas, desvie de inimigos e
 
 ---
 
-## ⚙️ Mecânicas Implementadas
+##  Mecânicas Implementadas
 
 - ✅ Andar, correr, pular, escalar
 - ✅ Sistema de vidas (3 vidas)
@@ -64,7 +64,7 @@ Atravesse 3 fases com dificuldade crescente, colete moedas, desvie de inimigos e
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Engine:** Unity 6.4 (6000.4.11f1)
 - **Linguagem:** C#
@@ -74,7 +74,7 @@ Atravesse 3 fases com dificuldade crescente, colete moedas, desvie de inimigos e
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 Assets/
@@ -107,7 +107,7 @@ Assets/
 
 ---
 
-## 🎵 Créditos de Áudio
+##  Créditos de Áudio
 
 - **Pack:** Hungry Dino (9 trilhas chiptune + 10 SFX)
 - **Autor:** SketchyLogic
@@ -116,7 +116,7 @@ Assets/
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 ### Pelo executável:
 1. Baixe a pasta `CircuitRush_Build`
@@ -131,7 +131,7 @@ Assets/
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Paulo Vitor(Opfer)**  
 Análise e Desenvolvimento de Sistemas — UniFECAF  
